@@ -1,4 +1,4 @@
-# 🏦 Banco Gopher <img src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/gif/stop.gif" width="40" />
+# 🏦 Banco Gopher <img src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/gif/stop.gif" width="30" />
 
 Este projeto foi desenvolvido como parte do curso **"Go: Orientação a Objetos"** da Alura, ministrado por **Guilherme Lima**. O objetivo é consolidar conceitos de orientação a objetos utilizando a linguagem Go, aplicando esses conceitos em um sistema bancário simulado.
 
