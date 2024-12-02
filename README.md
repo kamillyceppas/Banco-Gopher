@@ -18,7 +18,7 @@ git clone https://github.com/kamillyceppas/banco-gopher.git
 cd banco-gopher
 ```
 
-### 2. Clonar o repositório
+### 2. Executar a aplicação
 ```
 go run main.go
 ```
